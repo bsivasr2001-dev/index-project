@@ -1,4 +1,4 @@
-# index-project
+# 1st-project
 Web Basics
 index project
 
